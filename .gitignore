@@ -1,0 +1,23 @@
+# IPython creates intermediate checkpoints
+.ipynb_checkpoints
+
+# Python backup files
+*.pyc
+
+## latex/bibtex auxiliary files:
+*.aux
+*.log
+*.out
+*.toc
+*.dvi
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.brf
+*.run.xml
+*.synctex
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
